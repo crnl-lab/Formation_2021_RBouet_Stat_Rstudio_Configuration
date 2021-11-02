@@ -30,7 +30,9 @@ That's all from GITHUB !!!
 
 ### Rstudio
 
-In RStudio now:   
+In RStudio now.
+
+As we said previously, the spirit is: Rstudio work on an existing GIYHUB repository. So we will create an R project that will point on GITHUB repository and clone it. To do that:      
 
 Clic on ***File*** > ***New Project*** > ***Version Control*** > ***Git***    
 Put in the URL/SSH of your repository that you copied beforehand, the name of the R project (the same as Git ideally) and the folder in which to place it, and finally click on Create ***Project***.    
